@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color:orangered;
+}
+div{
+    margin: 4px;
+}
+photo{
+    border:3px solid greenyellow;
+    border-radius:50%;
+}
+.circular-image{
+    border-radius: 50%; 
+    height:auto;
+    width:200px;
+}
