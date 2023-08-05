@@ -16,3 +16,12 @@ photo{
     height:auto;
     width:200px;
 }
+body{
+    min-height: 5px;
+    background-image: url("lemon.JPG");
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+    text-align: left;
+    color:black; background-attachment:fixed;
+}

@@ -1,0 +1,20 @@
+thead{
+    background-color: aqua;
+}
+th{
+    color:blue;
+}
+table{
+    border: 3px solid red;
+}
+body{
+    border-radius: 50%;
+    min-height: auto;
+    min-width: 200px;
+     background-image: url("photo.JPG");
+     no-repeat;
+background-position: center;
+background-size:cover;
+text-align: left;
+color:white:background-attachment:fixed
+}
